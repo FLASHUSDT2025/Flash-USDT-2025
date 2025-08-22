@@ -2,6 +2,6 @@
 We create a Flash USDT TRC20 contract.
 For more Information 
 Contact me on telegram for setup 
-Telegram:
+Telegram: https://t.me/irfan_sopian
 
-https://t.me/irfan_sopian
+[https://t.me/irfan_sopian](https://t.me/Chain_Flash)
